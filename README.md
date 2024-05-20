@@ -1,59 +1,33 @@
-# اسم المشروع
+# Menu Foood
 
-وصف قصير للمشروع هنا. يمكن أن يكون وصفًا مختصرًا يوضح هدف المشروع ووظائفه الأساسية.
+project show the more of food whit transition
 
-## العرض المباشر (Demo)
+## Live Demo
 
-يمكنك تجربة المشروع مباشرة عبر الرابط التالي:
-[عرض المشروع المباشر](https://your-demo-link.com)
+You can try the project live at the following link:
+[Live Demo](https://movies-api-db0.netlify.app/)
 
-## المتطلبات
+## Requirements
 
-- لغة البرمجة أو إطار العمل المستخدم (مثال: Python 3.8، Node.js، إلخ)
-- الأدوات أو المكتبات الضرورية (مثال: Django، React، إلخ)
+- Programming language and framework used :java script and react js
+- Necessary tools or libraries :redux , react-pageinate and react-bootstrap
 
-## التثبيت والتشغيل
+## Installation and Running
 
-لنسخ المشروع وتشغيله محليًا، يرجى اتباع الخطوات التالية:
 
-1. قم باستنساخ المستودع:
+2. Install the requirements:
     ```sh
-    git clone https://github.com/username/repository.git
+    #install node js
+    
     ```
 
-2. انتقل إلى دليل المشروع:
+2. Run the project:
     ```sh
-    cd repository
-    ```
 
-3. قم بتثبيت المتطلبات:
-    ```sh
-    # إذا كان هناك ملف requirements.txt
-    pip install -r requirements.txt
-
-    # أو إذا كنت تستخدم npm
-    npm install
-    ```
-
-4. قم بتشغيل المشروع:
-    ```sh
-    # على سبيل المثال، إذا كان مشروع Django
-    python manage.py runserver
-
-    # أو إذا كان مشروع React
+    # React project:
+    cd movies-db
     npm start
     ```
 
-## الاستخدام
 
-أضف هنا شرحًا موجزًا عن كيفية استخدام المشروع، مع أمثلة إذا أمكن.
 
-## المساهمين
-
-شكرًا لجميع من ساهم في هذا المشروع:
-- [اسم المساهم الأول](https://github.com/username1)
-- [اسم المساهم الثاني](https://github.com/username2)
-
-## الرخصة
-
-هذا المشروع مرخص تحت رخصة [اسم الرخصة](https://opensource.org/licenses/اسم-الرخصة). راجع ملف `LICENSE` لمزيد من المعلومات.
