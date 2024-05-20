@@ -17,14 +17,14 @@ You can try the project live at the following link:
 
 2. Install the requirements:
     ```sh
-    #npm i
+    npm i
     
     ```
 
 2. Run the project:
     ```sh
-    #cd movies-db
-    #npm start
+    cd movies-db
+    npm start
     ```
 
 
