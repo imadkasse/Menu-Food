@@ -17,16 +17,14 @@ You can try the project live at the following link:
 
 2. Install the requirements:
     ```sh
-    #install node js
+    #npm i
     
     ```
 
 2. Run the project:
     ```sh
-
-    # React project:
-    cd movies-db
-    npm start
+    #cd movies-db
+    #npm start
     ```
 
 
