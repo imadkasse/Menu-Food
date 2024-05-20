@@ -23,7 +23,7 @@ You can try the project live at the following link:
 
 2. Run the project:
     ```sh
-    cd movies-db
+    cd menu-app
     npm start
     ```
 
