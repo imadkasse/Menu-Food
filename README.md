@@ -5,7 +5,7 @@ project show the more of food whit transition
 ## Live Demo
 
 You can try the project live at the following link:
-[Live Demo](https://movies-api-db0.netlify.app/)
+[Live Demo](https://menu-food0.netlify.app/)
 
 ## Requirements
 
